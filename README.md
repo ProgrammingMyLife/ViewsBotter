@@ -3,4 +3,4 @@
 # I AM NOT RESPONSIBLE FOR ANY TROUBLE YOU GET FROM USING THIS TOOL. USE THIS AT YOUR OWN RISK
 
 
-## This is a simple script I wrote to bot github profile views.
+## This is a simple script I wrote to bot github profile views to demostrate and learn requests and reading files
